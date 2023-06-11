@@ -1,0 +1,1 @@
+/Users/ywthoho/workspace/reservation_rust_practice/target/debug/libabi.rlib: /Users/ywthoho/workspace/reservation_rust_practice/abi/build.rs /Users/ywthoho/workspace/reservation_rust_practice/abi/protos /Users/ywthoho/workspace/reservation_rust_practice/abi/protos/reservation.proto /Users/ywthoho/workspace/reservation_rust_practice/abi/src/lib.rs
